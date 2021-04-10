@@ -1,0 +1,3 @@
+.terraform*
+*tfstate*
+freebsd-pot-bd8591be3539.json
